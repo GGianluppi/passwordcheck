@@ -10,7 +10,7 @@ This is a simple Python application that allows you to check the strength of you
 
 
 <p align="center">
-<img src="https://github.com/GGianluppi/passwordcheck/assets/104764600/bb3625ca-91f1-4e09-9cf0-9350bf7d96b7" width=85% height=85%>
+<img src="https://github.com/GGianluppi/passwordcheck/assets/104764600/9f72fd1a-475c-49e5-9c7e-f78b9185ccdd" width=100% height=100%>
 </p>
 
 
