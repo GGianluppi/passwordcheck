@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/GGianluppi/passwordcheck/assets/104764600/f803467f-8ea7-4694-a94d-5768cf80d123" width=23% height=23%>
+<img src="https://github.com/GGianluppi/passwordcheck/assets/104764600/35cc16de-88b9-4f42-8d9d-a20f923939a2" width=23% height=23%>
 </p>
 
 <h1 align="center">Password Strength Checker with Tkinter GUI</h1>
@@ -10,7 +10,7 @@ This is a simple Python application that allows you to check the strength of you
 
 
 <p align="center">
-<img src="https://github.com/GGianluppi/passwordcheck/assets/104764600/9f72fd1a-475c-49e5-9c7e-f78b9185ccdd" width=100% height=100%>
+<img src="https://github.com/GGianluppi/passwordcheck/assets/104764600/7ebd208e-e6c2-4e9c-9534-a31704ba9fe8" width=100% height=100%>
 </p>
 
 
