@@ -25,7 +25,7 @@ Before running the Password Strength Checker, make sure you have Python and Tkin
 **3.** Navigate to the directory where you saved the Password Strength Checker files.</br>
 **4.** Run the script using the following command:
 
-	python pwdcheck.py
+`python3 pwdcheck.py`
 
 **5.** The GUI window will open, allowing you to enter passwords and check their strength.</br>
 **6.** Enter a password in the input field and click the "Check Password Strength" button.</br>
